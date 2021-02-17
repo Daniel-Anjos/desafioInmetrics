@@ -61,18 +61,10 @@ Distribuído sob a licença XYZ. Veja `LICENSE` para mais informações.
 4. _Push_ (`git push origin feature/fooBar`)
 5. Crie um novo _Pull Request_
 
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/seunome/seuprojeto/wiki
-
-
-[cucumber-image]: https://img.shields.io/gem/v/cucumber?label=Cucumber&logo=Cucumber
-[capibara-image]: https://img.shields.io/gem/v/capybara?label=Capybara&logo=Capybaa)
-[rspec-image]: https://img.shields.io/gem/v/rspec?label=Rspec&logo=rspec
-[selenium-image]: https://img.shields.io/gem/v/selenium?label=Selenium&logo=Selenium
-[ruby-image]: https://img.shields.io/gem/v/ruby?label=Ruby&logo=Ruby
-[ruby-url]: https://www.ruby-lang.org/pt/
+[cucumber-image]: https://img.shields.io/gem/v/cucumber?label=Cucumber&logo=Cucumber  
+[capibara-image]: https://img.shields.io/gem/v/capybara?label=Capybara&logo=Capybaa   
+[rspec-image]: https://img.shields.io/gem/v/rspec?label=Rspec&logo=rspec  
+[selenium-image]: https://img.shields.io/gem/v/selenium?label=Selenium&logo=Selenium  
+[ruby-image]: https://img.shields.io/gem/v/ruby?label=Ruby&logo=Ruby  
+[ruby-url]: https://www.ruby-lang.org/pt/  
 
