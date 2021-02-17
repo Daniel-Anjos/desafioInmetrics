@@ -13,7 +13,7 @@
 Projeto de automação de testes para os recursos da plataforma de exemplo da Inmetrics, 
 Mapeados o cadastro de um novo usuário, o login deste usuário no sistema e o cadastro de um novo funcionário.
 
-![](../img/telaprincipal.png)
+![](./img/telaprincipal.png)
 
 ## Instalação
 
