@@ -104,7 +104,7 @@ PLATFORMS
 
 DEPENDENCIES
   capybara (= 3.35)
-  cucumber
+  cucumber (= 5.3)
   rspec
   selenium-webdriver
 

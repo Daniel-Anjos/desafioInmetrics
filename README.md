@@ -2,10 +2,10 @@
 > Desafio de automação de testes para avaliar a construção e uso de boas práticas. 
 
 ![GitHub top language](https://img.shields.io/github/languages/top/daniel-anjos/desafioInmetrics)
-![Build Status][travis-image]][travis-url]
+![Build Status][travis-image][travis-url]
 ![GitHub last commit](https://img.shields.io/github/last-commit/daniel-anjos/desafioInmetrics)  
 ![selenium-image]
-![Ruby Version][ruby-image][ruby-url]  
+![Ruby Version][ruby-image][https://www.ruby-lang.org/pt/]
 ![cucumber-image]
 ![capibara-image]
 ![rspec-image]  
@@ -66,5 +66,5 @@ Distribuído sob a licença XYZ. Veja `LICENSE` para mais informações.
 [rspec-image]: https://img.shields.io/gem/v/rspec?label=Rspec&logo=rspec  
 [selenium-image]: https://img.shields.io/gem/v/selenium?label=Selenium&logo=Selenium  
 [ruby-image]: https://img.shields.io/gem/v/ruby?label=Ruby&logo=Ruby  
-[ruby-url]: https://www.ruby-lang.org/pt/  
+
 
