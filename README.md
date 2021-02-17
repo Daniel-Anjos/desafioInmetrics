@@ -1,22 +1,22 @@
 # Desafio Inmetrics Qualidade de Software
 > Desafio de automação de testes para avaliar a construção e uso de boas práticas. 
 
-[![RUBY version][ruby-image]][ruby-url]
+![GitHub top language](https://img.shields.io/github/languages/top/daniel-anjos/desafioInmetrics)
 [![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+![GitHub last commit](https://img.shields.io/github/last-commit/daniel-anjos/desafioInmetrics)
+![cucumber-image]
+![capibara-image]
+![rspec-image]
+![selenium-image]
+![Gem](https://img.shields.io/gem/v/ruby?label=Ruby&logo=Ruby)[https://www.ruby-lang.org/pt/]
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+Projeto de automação de testes para os recursos da plataforma de exemplo da Inmetrics, 
+Mapeados o cadastro de um novo usuário, o login deste usuário no sistema e o cadastro de um novo funcionário.
 
-![](../header.png)
+![](../img/telaprincipal.png)
 
 ## Instalação
-
-OS X & Linux:
-
-```sh
-npm install my-crazy-module --save
-```
 
 Windows:
 
@@ -43,28 +43,20 @@ npm test
 
 * 0.2.1
     * MUDANÇA: Atualização de docs (código do módulo permanece inalterado)
-* 0.2.0
-    * MUDANÇA: Remove `setDefaultXYZ()`
-    * ADD: Adiciona `init()`
-* 0.1.1
-    * CONSERTADO: Crash quando chama `baz()` (Obrigado @NomeDoContribuidorGeneroso!)
-* 0.1.0
-    * O primeiro lançamento adequado
-    * MUDANÇA: Renomeia `foo()` para `bar()`
 * 0.0.1
     * Trabalho em andamento
 
 ## Meta
 
-Seu Nome – [@SeuNome](https://twitter.com/...) – SeuEmail@exemplo.com
+Daniel dos Anjos – [@SeuNome](https://twitter.com/...) – daniel.anjos.1989@gmail.com
 
 Distribuído sob a licença XYZ. Veja `LICENSE` para mais informações.
 
-[https://github.com/yourname/github-link](https://github.com/othonalberto/)
+[https://github.com/Daniel-Anjos/desafioInmetrics](https://github.com/Daniel-Anjos/desafioInmetrics)
 
 ## Contributing
 
-1. Faça o _fork_ do projeto (<https://github.com/yourname/yourproject/fork>)
+1. Faça o _fork_ do projeto (<https://github.com/Daniel-Anjos/desafioInmetrics/fork>)
 2. Crie uma _branch_ para sua modificação (`git checkout -b feature/fooBar`)
 3. Faça o _commit_ (`git commit -am 'Add some fooBar'`)
 4. _Push_ (`git push origin feature/fooBar`)
@@ -76,3 +68,11 @@ Distribuído sob a licença XYZ. Veja `LICENSE` para mais informações.
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/seunome/seuprojeto/wiki
+
+
+![cucumber-image](https://img.shields.io/gem/v/cucumber?label=Cucumber&logo=Cucumber)
+![capibara-image](https://img.shields.io/gem/v/capybara?label=Capybara&logo=Capybara)
+![rspec-image](https://img.shields.io/gem/v/rspec?label=Rspec&logo=rspec)
+![selenium-image](https://img.shields.io/gem/v/selenium?label=Selenium&logo=Selenium)
+
+
